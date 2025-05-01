@@ -23,7 +23,7 @@
          url('../fonts/Recia-Regular.woff') format('woff'),
          url('../fonts/Recia-Regular.ttf') format('truetype');
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     font-display: swap;
 }
 
@@ -33,7 +33,7 @@
          url('../fonts/Recia-Medium.woff') format('woff'),
          url('../fonts/Recia-Medium.ttf') format('truetype');
     font-weight: 700;
-    font-style: italic;
+    font-style: normal;
     font-display: swap;
 }
 
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "ArsenicaTrial", serif;
-    font-style: italic;
+    font-style: normal;
 }
 
 h1 {
