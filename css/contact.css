@@ -2,7 +2,7 @@
 
 /* Apply general font */
 body {
-    font-family: "ArsenicaTrial", serif;
+    font-family: "Recia", serif;
 	}
 
 /* Main container with full viewport height */
@@ -43,7 +43,7 @@ body {
 .link-text {
     font-size: 8vw; /* Responsive font size based on viewport width */
     font-weight: 500;
-	  font-family: "Recia", serif;
+	  font-family: "ArsenicaTrial", serif;
     font-style: italic;
     letter-spacing: -0.02em;
     line-height: 1;
